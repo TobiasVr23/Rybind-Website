@@ -1,0 +1,37 @@
+body{
+    margin: 0;
+}
+header{
+    width: 42rem;
+    height: 6rem;
+    background-color: white;
+    display: flex;
+    align-items: center;
+    justify-content:flex-start;
+}
+.header-logo{
+    height: 5rem;
+    width: 12rem;  
+}
+
+.header-button{
+    padding: 0;
+    border: none;
+    background: none;
+    margin-left: 2.5rem;
+}
+
+.menu-icon{
+    height: 50%;
+    width: 3rem;
+}
+
+/* ======================================================================= */
+
+.img-main{
+    width:100%;
+}
+.img-main-text{
+    position: absolute;
+    
+}
