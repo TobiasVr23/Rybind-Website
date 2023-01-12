@@ -31,7 +31,7 @@ header{
 /* ======================================================================= */
 .first-img{
     display: flex;
-    align-items: center;
+    align-items: top;
     justify-content: center;
 }
 .img-main{
@@ -42,8 +42,9 @@ header{
     position: absolute;
     text-align: center;
     color: rgb(255, 255, 255);
-    align-self: center;
+    align-self: top;
     text-shadow: 1px 1px black;
+    margin: 0.5rem 0 0 0;
 }
 
 .text-above-slide-div{
