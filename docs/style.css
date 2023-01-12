@@ -1,8 +1,9 @@
 body{
     margin: 0;
+    width: 20rem;
 }
 header{
-    width: 42rem;
+    width:fit-content;
     height: 6rem;
     background-color: white;
     display: flex;
@@ -29,9 +30,13 @@ header{
 /* ======================================================================= */
 
 .img-main{
-    width:100%;
+    width:70%
 }
 .img-main-text{
     position: absolute;
     
+}
+
+h1{
+    font-size: 24px;
 }
