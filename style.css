@@ -61,10 +61,11 @@ header{
 
 .slide-div{
     background-color: #1669e5;
-    width: 18rem;
+    width: 20rem;
     height: 15rem;
     margin: 0 auto;
     text-align: center;
+    border-radius: 25px;
 }
 .slide-div h2{
     color: white;
@@ -80,7 +81,7 @@ header{
     margin: 0 0 0 2rem;
     width: 5rem;
     height: 12rem;
-    border-radius: 125px;
+    border-radius: 25px;
     object-fit: cover;
     float: left;
 }
@@ -91,16 +92,14 @@ header{
 .side-text1 p{
     margin: 0 0.5rem 0 8rem;
 }
-b{
-    font-weight: 800;
-}
+
 
 
 
 
 /* ======================================================================= */
 h1{
-    font-size: 30px;
+    font-size: 32px;
 }
 
 h2{
@@ -110,4 +109,9 @@ h2{
 p{
     color: rgb(0, 0, 0);
     font-size: 15px;
+}
+
+b{
+    font-weight: 800;
+    color: #1669e5;
 }
