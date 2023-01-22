@@ -92,7 +92,7 @@ header{
 
 .side-img2{
     text-align: right;
-    margin: 0 1.5rem 0 0;
+    margin: 0 2rem 0 0;
     width: 5rem;
     height: 12rem;
     border-radius: 25px;
@@ -118,7 +118,7 @@ header{
 
 footer{
     height: 10rem;
-    width: 20rem;
+    width: 19.5rem;
     background-color: #1669e5;
     display:flex;
     align-items: center;
