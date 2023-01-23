@@ -3,7 +3,9 @@ Rybind website
 
 ## Aanleiding
 Vanwege en samenwerking tussen Minor Ondernemen en de FDND opleiding heb ik kunnen samenwerken met de oprichters van Rybind, een email marketing automatiserings bedrijf die andere bedrijven helpen om hun marketing te verbeteren.
+
 ![Schermopname (42)](https://user-images.githubusercontent.com/112855854/214010436-45e62216-65dc-4f1e-a6f7-6dd3ae7bd722.png)
+
 https://tobiasvr23.github.io/the-startup-responsive-interactieve-website/
 
 ## Kenmerken
