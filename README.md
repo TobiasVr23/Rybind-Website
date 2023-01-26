@@ -11,6 +11,16 @@ https://tobiasvr23.github.io/the-startup-responsive-interactieve-website/
 ## Kenmerken
 Ik heb de huisstijl van Rybind toegepast, en zelf de layout verzonnen. Ik heb standaart html en css toegepast, ookal is er nog ruimte om wat interactieve elementen te implementeren.
 
+## Checklist:
+Mobile versie: ja
+
+Menu: Nog mee bezig
+
+Desktop versie: Nog mee bezig
+
+Vertaalfunctie: Nee
+
+
 ## Licentie
 
 ![GNU GPL V3](https://www.gnu.org/graphics/gplv3-127x51.png)
