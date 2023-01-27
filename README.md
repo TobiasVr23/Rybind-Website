@@ -2,11 +2,14 @@
 
 ## 📖 Inhoudsopgave
 [Aanleiding](https://github.com/TobiasVr23/Rybind-Website/blob/main/README.md#-inhoudsopgave)
-<li> Aanleiding </li>
-[Gebruik van de website](https://github.com/TobiasVr23/Rybind-Website/blob/main/README.md#-inhoudsopgave)
-<li> Kenmerken </li>
-<li> Checklist </li>
-<li> Licentie </li>
+
+[Gebruik van de website](https://github.com/TobiasVr23/Rybind-Website/blob/main/README.md#-gebruik-van-de-website)
+
+[Kenmerken](https://github.com/TobiasVr23/Rybind-Website#-kenmerken)
+
+[Checklist](https://github.com/TobiasVr23/Rybind-Website#%EF%B8%8F-checklist)
+
+[Licentie](https://github.com/TobiasVr23/Rybind-Website#%EF%B8%8F-licentie)
 
 ## 🚀 Aanleiding
 Vanwege en samenwerking tussen Minor Ondernemen en de FDND opleiding heb ik kunnen samenwerken met de oprichters van Rybind, een email marketing automatiserings bedrijf die andere bedrijven helpen om hun marketing te verbeteren.
