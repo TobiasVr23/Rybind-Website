@@ -3,7 +3,7 @@
 ## 📖 Inhoudsopgave
 [Aanleiding](https://github.com/TobiasVr23/Rybind-Website/blob/main/README.md#-inhoudsopgave)
 <li> Aanleiding </li>
-<li> Gebruik van de website </li>
+[Gebruik van de website](https://github.com/TobiasVr23/Rybind-Website/blob/main/README.md#-inhoudsopgave)
 <li> Kenmerken </li>
 <li> Checklist </li>
 <li> Licentie </li>
