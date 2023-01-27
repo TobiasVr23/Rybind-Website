@@ -1,7 +1,7 @@
 # Rybind website
 
 ## 📖 Inhoudsopgave
-
+[Aanleiding](https://github.com/TobiasVr23/Rybind-Website/blob/main/README.md#-inhoudsopgave)
 <li> Aanleiding </li>
 <li> Gebruik van de website </li>
 <li> Kenmerken </li>
