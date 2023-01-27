@@ -1,5 +1,4 @@
-# Titel
-Rybind website
+# Rybind website
 
 ## 📖 Inhoudsopgave
 
